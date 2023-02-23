@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanielMoguelK
-- 👀 I’m interested in ...Data Science, Environment, Sustainable Design, Coding
-- 🌱 I’m currently learning ... Data Science related skills using Python, SQL, R
+- 👀 I’m interested in ...Programming,Data Science, Environment, Sustainable Design, Coding
+- 🌱 I’m currently learning ... Data Science related skills using Python,Java, SQL, R
 - 💞️ I’m looking to collaborate on ... related projects :)
 - 📫 How to reach me ... moguel.daniel@outlook.com
 
